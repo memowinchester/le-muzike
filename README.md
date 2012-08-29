@@ -1,4 +1,4 @@
 le-muzike
 =========
 
-Metro app for windows 8
+Music metro app for windows 8
